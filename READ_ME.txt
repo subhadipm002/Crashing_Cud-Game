@@ -1,0 +1,2 @@
+-These are cpp files and developed using TURBO-C.
+-To run the programme put all these files in bin folder and run 'START' named file.
